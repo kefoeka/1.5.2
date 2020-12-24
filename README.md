@@ -1,3 +1,3 @@
-# THIS IS A TEST
+# Merry Christmas!!
 
-Try an easy "Tic-Tac-Toe" game [here](./Tic-Tac-Toe).
+## An easy "Tic-Tac-Toe" game [here](./Tic-Tac-Toe).
